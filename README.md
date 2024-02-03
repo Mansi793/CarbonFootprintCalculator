@@ -11,3 +11,8 @@ Critical sensors for temperature, humidity, carbon, and hydrocarbons play a vita
 Our method brings together the simplicity of traditional approaches and the advanced capabilities of IoT technologies, providing a comprehensive solution for carbon footprint calculation. Nevertheless, further research and analysis are imperative to ascertain the effectiveness of this approach in accurately calculating the carbon footprint.
 
 
+
+![Certificate of Publication]([https://example.com/your-image.jpg](https://drive.google.com/file/d/1xSvAPzBNfFJAZXpF8DKt0SjEsULQQJEV/view?usp=drive_link))
+
+This project was published in Scopus Technical Security(Journal) For more details, you can refer to the [project documentation (PDF)]([https://example.com/your-documentation.pdf](https://drive.google.com/file/d/16WybSIEp32KAj98mu04n-dCxidApDubT/view?usp=sharing)https://drive.google.com/file/d/16WybSIEp32KAj98mu04n-dCxidApDubT/view?usp=sharing).
+
