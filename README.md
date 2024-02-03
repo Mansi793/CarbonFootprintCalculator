@@ -12,7 +12,7 @@ Our method brings together the simplicity of traditional approaches and the adva
 
 
 
-![Certificate of Publication](33-TSJ1602(1).JPG)
+![Certificate of Publication]([33-TSJ1602(1).JPG](https://drive.google.com/file/d/1xSvAPzBNfFJAZXpF8DKt0SjEsULQQJEV/view?usp=sharing))
 
 This project was published in Scopus Technical Security(Journal) For more details, you can refer to the [project documentation (PDF)]([https://example.com/your-documentation.pdf](https://drive.google.com/file/d/16WybSIEp32KAj98mu04n-dCxidApDubT/view?usp=sharing)https://drive.google.com/file/d/16WybSIEp32KAj98mu04n-dCxidApDubT/view?usp=sharing).
 
